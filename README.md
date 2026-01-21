@@ -231,8 +231,48 @@ maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 k
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+// bronnenlijst
+
+// carousel horizontaal laten scrollen
+// MDN Web Docs — Element.scrollBy()
+// https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollBy
+
+// gebruikt om carousel infinite te maken
+// MDN Web Docs — Element.scrollTo()
+// https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTo
+
+// gebruikt om te bepalen hoever we zijn in de carousel
+// MDN Web Docs — Element.scrollLeft
+// https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollLeft
+
+// gebruikt voor de bolletjes
+// MDN Web Docs — Document.createElement()
+// https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+
+// gebruikt om deze bolletjes te markeren op waar we zijn in de carousel
+// MDN Web Docs — DOMTokenList.toggle()
+// https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle
+
+// gebruikt om te reageren op de klik en scroll events van de buttons
+// MDN Web Docs — EventTarget.addEventListener()
+// https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+// gebruikt om html elementen te selecteren
+// MDN Web Docs — Document.querySelector() / querySelectorAll()
+// https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+// https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
+// gebruikt om te checken of het scehrm groter of kleiner is dan 1200px
+// MDN Web Docs — Window.matchMedia()
+// https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+
+// gebruikt om screenreaders te laten weten of het navigatiemenu open of dicht is
+// MDN Web Docs — ARIA: aria-expanded
+// https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-expanded
+
+// gerbruikt om ervoor te zorgen dat het menu sluit wanneer de esc toets wordt gedrukt
+// MDN Web Docs — KeyboardEvent.key + key values (Escape)
+// https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
+// https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values 
 
 </details>
