@@ -37,16 +37,12 @@ responsive
   [](https://www.24kitchen.nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-   recept van oesterzwamburgers met jalapenos
-  <img width="229" height="400" alt="image" src="https://github.com/user-attachments/assets/c0329333-bfe9-4b89-b6b1-222488428caf" />
-
-  <img src="readme-images/receptpagina.png" width="375px" alt="een pagina met een recept van oesterzwamburgers met jalapenos">
+  Homepagina van 24Kitchen 
+  <img src="readme-images/homepagina.png" width="375px" alt="de homepage van 24kitchen">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  homepage van 24kitchen
-  <img width="229" height="400" alt="image" src="https://github.com/user-attachments/assets/1f4f5346-cb41-48c3-8d07-a10970942ec2" />
-
-  <img src="readme-images/homepagina.png" width="375px" alt="de homepage van 24kitchen">
+  Receptpagina van oesterzwamburgers met japanos  
+  <img src="readme-images/receptpagina.png" width="375px" alt="een pagina met een recept van oesterzwamburgers met jalapenos">
  
 </details>
 
@@ -109,10 +105,9 @@ responsive
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- articles en sections duidelijk nu
+- beginnen met mobile
+- beginnen met responsiveness
 
 </details>
 
@@ -142,10 +137,9 @@ responsive
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - moet nog javascript doen
+  - responsiveness is nog niet top
+  - paden verkorten, veel minder pseudo-elementen(?) gebruiken
 
 </details>
 
@@ -159,8 +153,7 @@ responsive
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+  de screenreader is nog niet goed moet echt beter en duidelijker, nog geen dark en lightmodus, kopjes moeten duidelijker en begrijpelijker. 
 </details>
 
 
@@ -189,10 +182,10 @@ responsive
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - slordigheids foutjes eruit
+  - dubbele coe eruit halen
+  - ">""<" is css
+  - de afbeeldingen zijn niet responsive, ze rekken gewoon uit
 
 </details>
 
@@ -217,7 +210,7 @@ responsive
 
 
   ### Dit was lastig/Is niet gelukt:
-maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 kaartje per keer, dus voor mobile, ging goed. maar toen moest ik een grotere carousel maken en dat lukte me gewoon niet. dus heb ik een andere manier gevonden om het er alsnog goeduit te laten zien maar helaas niet in een carousel :(
+maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 kaartje per keer, dus voor mobile, ging goed. maar toen moest ik een grotere carousel maken en dat lukte me gewoon niet. dus heb ik een andere manier gevonden om het er alsnog goed uit te laten zien maar helaas niet in een carousel :(
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -231,11 +224,12 @@ maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 k
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
+
 
 // bronnenlijst
+// kopjes laten verdwijnen
+// a11yproject - How-to Hide Content
+https://www.a11yproject.com/posts/how-to-hide-content/
 
 // carousel horizontaal laten scrollen
 // MDN Web Docs — Element.scrollBy()
@@ -279,4 +273,18 @@ maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 k
 // https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
 // https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values 
 
+// Ik heb de tegenovergestelde kleuren van de light en dark modus laten genereren door ChatGPT
+//  --color-bg:          light-dark(#ffffff, #050608);
+  --color-text:        light-dark(#111111, #f5f5f5);
+  --color-surface:     light-dark(#ffffff, #14161a);
+  --color-surface-alt: light-dark(#f7f7f7, #1d2228);
+  --color-border:      light-dark(#e5e5e5, #333843);
+
+  --color-accent:      light-dark(#eb3467, #ff4c7d);
+  --color-accent-alt:  light-dark(#007f86, #32c1c7);
+
+  --color-link:        light-dark(#007f86, #7ee7ff);
+  --color-link-hover:  light-dark(#eb3467, #ff9ac0);
+
+  
 </details>
