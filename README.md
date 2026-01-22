@@ -44,7 +44,7 @@ responsive
 
   #### Screenshot(s) van de tweede pagina (small screen):
   homepage van 24kitchen
-  <img width="229" height="229" alt="image" src="https://github.com/user-attachments/assets/1f4f5346-cb41-48c3-8d07-a10970942ec2" />
+  <img width="229" height="400" alt="image" src="https://github.com/user-attachments/assets/1f4f5346-cb41-48c3-8d07-a10970942ec2" />
 
   <img src="readme-images/homepagina.png" width="375px" alt="de homepage van 24kitchen">
  
