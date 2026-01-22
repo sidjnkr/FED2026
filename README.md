@@ -38,13 +38,13 @@ responsive
 
   #### Screenshot(s) van de eerste pagina (small screen): 
    recept van oesterzwamburgers met jalapenos
-  <img width="458" height="807" alt="image" src="https://github.com/user-attachments/assets/c0329333-bfe9-4b89-b6b1-222488428caf" />
+  <img width="229" height="400" alt="image" src="https://github.com/user-attachments/assets/c0329333-bfe9-4b89-b6b1-222488428caf" />
 
   <img src="readme-images/receptpagina.png" width="375px" alt="een pagina met een recept van oesterzwamburgers met jalapenos">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   homepage van 24kitchen
-  <img width="458" height="807" alt="image" src="https://github.com/user-attachments/assets/1f4f5346-cb41-48c3-8d07-a10970942ec2" />
+  <img width="229" height="229" alt="image" src="https://github.com/user-attachments/assets/1f4f5346-cb41-48c3-8d07-a10970942ec2" />
 
   <img src="readme-images/homepagina.png" width="375px" alt="de homepage van 24kitchen">
  
