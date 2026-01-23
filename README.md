@@ -37,12 +37,11 @@ responsive
   [](https://www.24kitchen.nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepagina van 24Kitchen 
-  <img src="readme-images/homepagina.png" width="375px" alt="de homepage van 24kitchen">
+  Homepagina van 24Kitchen <img width="375" alt="homepagina" src="https://github.com/user-attachments/assets/a60b5483-34cc-488e-a3ef-ec59afb22b0c" />
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Receptpagina van oesterzwamburgers met japanos  
-  <img src="readme-images/receptpagina.png" width="375px" alt="een pagina met een recept van oesterzwamburgers met jalapenos">
+  Receptpagina van oesterzwamburgers met japanos  <img width="375" alt="receptpagina" src="https://github.com/user-attachments/assets/b0cdb9ed-a542-4832-a811-80b5e93cb8c3" />
  
 </details>
 
@@ -67,6 +66,8 @@ responsive
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
+
+  Ik had geen breakdown schets
 
   ### de hele pagina: 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
