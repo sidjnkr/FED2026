@@ -96,12 +96,26 @@ responsive
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Jada:
+1. Hoe haal ik de tekst meer naar links?
+2. Er staat een svg voor de pijl, maar ik kan het niet vinden, is er een andere maneir? (zelfde probleem met andere plaatjes)
+3. Hoe pas ik de order aan H2 actueel en H3's? ook als ik meerdere heb die anders moeten
 
+Daniel:
+1. Hoe kan ik makkelijk meerdere hamburger menu’s gebruiken 
+2. ⁠Font face lijkt niet te werken bij mij
+3. ⁠Hoe kan ik mijn video in het aan de zijkanten laten wegvagen
+
+Annabel: 
+1. Waarom doet mijn hamburger menu het de ene keer wel en de andere keer niet? 
+2. ⁠hoe zorg ik ervoor dat de navigatie op de index mee schaalt als het scherm groter wordt?
+3. ⁠hoe zorg ik voor witruimte rond de tekst?
+4. ⁠hoe zet ik de h1 en de p die daarbij hoort in het midden als het niet in een container zit?
+
+Sid: 
+1. Hoe verwerk ik advertenties in mn pagina.
+2. ⁠hoe maak ik zo'n achtergrond zoals op de echte site
+3. ⁠hoe maak ik een zoekbalk
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -128,13 +142,24 @@ responsive
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Jada:
+1. Hoe krijg ik de svg en link naast elkaar?
+2. Hoe krijg ik een zwart vierkant achter mijn time 
+3. Hoe krijg ik mijn H1 samen met de nav (dat de background een geheel is)?
 
+Annabel:
+1. Hoe krijg ik die h2 in het midden van de pagina, positioneren lijkt niet te helpen
+2. ⁠hoe krijg ik de video en h2 in het midden.
+3. ⁠is het genoeg?
+4. ⁠moet het logo een svg zijn
 
+Sid:
+1. is er echt geen betere en overzichtelijkere manier om css te stylen?
+2. Is het verstandig om eerst de volledige desktop-versie af te maken voordat ik overstap naar responsive?
+3. Zijn er dingen die ik op dit punt beter kan herstructureren voordat ik verder ga?
+
+Daniel:
+Had geen vragen
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
@@ -172,12 +197,16 @@ responsive
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  Annabel:
+ 1. Hoe laatste TD selecteren van tabel
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Jada:
+1. Hoe zorg ik dat de tekst niet uit mijn kader gaat
+2. Hoe kan ik er voor zorgen als je op de carousel komt je nog verder omlaag kan scrollen 
+3. Hie krijg ik de pijlen in de buttons van mijn carrousel een andere kleur
+
+Sid:
+Geen echt specifieke vragen. 
 
 
   ### Verslag van meeting
@@ -186,7 +215,7 @@ responsive
   - slordigheids foutjes eruit
   - dubbele coe eruit halen
   - ">""<" is css
-  - de afbeeldingen zijn niet responsive, ze rekken gewoon uit
+  - media query's fixen
 
 </details>
 
@@ -210,14 +239,17 @@ responsive
 
   ### Dit ging goed/Heb ik geleerd: 
    ik ben beter geworden in javascript, ik heb een hamburger menu weten te maken en een carousel. Ook heb ik voor het eerst een site responsive gemaakt wat ook erg goed ging. En heel erg meeviel met hoe moeilijk ik dacht dat het zou zijn. 
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/6f69dfa0-23c4-4981-9343-65b1b4915cbe" />
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
 maar toch ben ik ook wel een beetje gefaald met de carousel, de carousel met 1 kaartje per keer, dus voor mobile, ging goed. maar toen moest ik een grotere carousel maken en dat lukte me gewoon niet. dus heb ik een andere manier gevonden om het er alsnog goed uit te laten zien maar helaas niet in een carousel :(
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/b5c09db8-7f46-43ae-8b38-1470f34d421a" />
+<img width="150"  alt="image" src="https://github.com/user-attachments/assets/5ef258ee-d348-49bb-8e87-6e213c6f8f72" />
+
+
 </details>
 
 
