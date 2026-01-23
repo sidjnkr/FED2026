@@ -200,8 +200,12 @@ responsive
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/mijnrecept.png" width="375px" alt="uitomst opdracht 1">
-   <img src="readme-images/mijnhome.png" width="375px" alt="uitomst opdracht 1">
+  Homepagina: 
+  <img width="375" alt="mijnhome" src="https://github.com/user-attachments/assets/dcd66c05-97e2-45d8-b86c-46b8d29ed788" />
+  Receptpagina: 
+  <img width="375" alt="mijnrecept" src="https://github.com/user-attachments/assets/93b12c12-2ef0-4a90-9b46-a08a6a2ff279" />
+
+ 
 
 
   ### Dit ging goed/Heb ik geleerd: 
